@@ -61,7 +61,16 @@ img:hover {
 #scale {
   top: 230px;
   left: 85px;
+}\
+table {
+  border: solid white 2px;
+  text-align: center;
 }
-#sources {
-  margin-top: 500px;
+th {
+  border: solid white 1px;
+  padding: 2px;
+}
+td {
+  border: solid white 1px;
+  padding: 2px;
 }
