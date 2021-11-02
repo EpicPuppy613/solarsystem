@@ -1,0 +1,67 @@
+html {
+  background-color: black;
+  float: left;
+  color: white;
+  font-family: monospace;
+  white-space: nowrap;
+}
+img {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  transition: filter 0.2s;
+}
+img:hover {
+  filter: brightness(1.25);
+}
+#sun {
+  left: -300px;
+  top: 50px;
+}
+#mercury {
+  top: 240px;
+  left: 104.5px;
+}
+#venus {
+  left: 121px;
+  top: 250px;
+}
+#earth {
+  top: 220px;
+  left: 135px;
+}
+#moon {
+  top: 215px;
+  left: 145px;
+}
+#mars {
+  top: 250px;
+  left: 161px;
+}
+#jupiter {
+  top: 220px;
+  left: 345px;
+}
+#saturn {
+  top: 225px;
+  left: 562px;
+}
+#uranus {
+  top: 240px;
+  left: 1044px;
+}
+#neptune {
+  top: 241px;
+  left: 1588px;
+}
+#pluto {
+  top: 260px;
+  left: 2060px;
+}
+#scale {
+  top: 230px;
+  left: 85px;
+}
+#sources {
+  margin-top: 500px;
+}
